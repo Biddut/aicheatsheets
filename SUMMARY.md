@@ -4,5 +4,6 @@
 
 ## Deep Learning
 
-* [Neural Network](deep-learning/deep-learning.md)
+* [Neural Network](deep-learning/deep-learning/README.md)
+  * [Neural Implementation from scratch](deep-learning/deep-learning/neural-implementation-from-scratch.md)
 
