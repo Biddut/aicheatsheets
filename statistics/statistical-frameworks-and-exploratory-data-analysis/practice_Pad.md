@@ -1146,7 +1146,7 @@ plt.matshow(image, cmap = 'gray')
 
 
 
-![png](assets/practice_Pad_75_1.png)
+![png](/.gitbook/assets/practice_Pad_75_1.png)
 
 
 
@@ -1460,7 +1460,7 @@ plt.show()
 ```
 
 
-![png](assets/practice_Pad_95_0.png)
+![png](/.gitbook/assets/practice_Pad_95_0.png)
 
 
 
@@ -1501,7 +1501,7 @@ for point,proj, pred in zip(X,projected_mat,y):
 ```
 
 
-![png](assets/practice_Pad_99_0.png)
+![png](/.gitbook/assets/practice_Pad_99_0.png)
 
 
 
@@ -2649,7 +2649,7 @@ plot_axis_pairs(
 ```
 
 
-![png](assets/practice_Pad_146_0.png)
+![png](/.gitbook/assets/practice_Pad_146_0.png)
 
 
 #Gaussian_Mixture_Models 1D data
