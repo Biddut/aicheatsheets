@@ -11,4 +11,3 @@ The central limit theorem is important because it is used in hypothesis testing 
 ## References
 
 1. https://towardsdatascience.com/40-statistics-interview-problems-and-answers-for-data-scientists-6971a02b7eee
-2. 
