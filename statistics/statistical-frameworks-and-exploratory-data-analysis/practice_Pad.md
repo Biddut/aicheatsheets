@@ -98,7 +98,7 @@ _ = plt.ylabel('Shingle Size')
 ```
 
 
-![png](/assets/practice_Pad_146_0.png)
+![png](/.gitbook/assets/practice_Pad_146_0.png)
 
 
 
