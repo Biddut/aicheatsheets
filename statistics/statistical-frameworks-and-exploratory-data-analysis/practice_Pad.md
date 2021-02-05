@@ -98,7 +98,7 @@ _ = plt.ylabel('Shingle Size')
 ```
 
 
-![png](practice_Pad_files/practice_Pad_4_0.png)
+![png](/assets/practice_Pad_146_0.png)
 
 
 
@@ -1146,7 +1146,7 @@ plt.matshow(image, cmap = 'gray')
 
 
 
-![png](practice_Pad_files/practice_Pad_75_1.png)
+![png](assets/practice_Pad_75_1.png)
 
 
 
@@ -1460,7 +1460,7 @@ plt.show()
 ```
 
 
-![png](practice_Pad_files/practice_Pad_95_0.png)
+![png](assets/practice_Pad_95_0.png)
 
 
 
@@ -1501,7 +1501,7 @@ for point,proj, pred in zip(X,projected_mat,y):
 ```
 
 
-![png](practice_Pad_files/practice_Pad_99_0.png)
+![png](assets/practice_Pad_99_0.png)
 
 
 
@@ -2649,7 +2649,7 @@ plot_axis_pairs(
 ```
 
 
-![png](practice_Pad_files/practice_Pad_146_0.png)
+![png](assets/practice_Pad_146_0.png)
 
 
 #Gaussian_Mixture_Models 1D data
@@ -2683,7 +2683,7 @@ pyplot.show()
 ```
 
 
-![png](practice_Pad_files/practice_Pad_149_0.png)
+![png](assets/practice_Pad_149_0.png)
 
 
 
@@ -2773,7 +2773,7 @@ plt.plot()
 
 
 
-![png](practice_Pad_files/practice_Pad_154_1.png)
+![png](assets/practice_Pad_154_1.png)
 
 
 #Multivariate Classifcation
