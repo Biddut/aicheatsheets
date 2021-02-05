@@ -1,9 +1,10 @@
 # Table of contents
 
-* [Home](README.md)
+* [Initial page](README.md)
 
-## Deep Learning
+## Statistics
 
-* [Neural Network](deep-learning/deep-learning/README.md)
-  * [Neural Implementation from scratch](deep-learning/deep-learning/neural-implementation-from-scratch.md)
+* [Statistical Frameworks and Exploratory Data Analysis](statistics/statistical-frameworks-and-exploratory-data-analysis/README.md)
+  * [The Central Limit Theorem](statistics/statistical-frameworks-and-exploratory-data-analysis/the-central-limit-theorem.md)
+* [Untitled](statistics/untitled.md)
 
