@@ -1,6 +1,6 @@
-# Basic Statistics
+# Statistics
 
-## In linear regression, there may be collinearity between the independent variables. In logistic regression, there should not be collinearity between the independent variable. Why?
+1. **In  linear regression, there may be collinearity between the independent variables. In logistic regression, there should not be collinearity between the independent variable. Why?**
 
 That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
 
@@ -8,6 +8,8 @@ That's a tough question but thankfully, our team is on it. Please bear with us w
 * [ ] [https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/](https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/)
 
 
+
+  **2. What is the Central Limit Theorem? Explain it. Why is it important?**
 
 ## How many and what type of Data need to deal with machine learning?
 

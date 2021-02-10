@@ -4,11 +4,10 @@
 
 ## Statistics
 
-* [Statistical Frameworks and Exploratory Data Analysis](statistics/statistical-frameworks-and-exploratory-data-analysis/README.md)
-  * [The Central Limit Theorem](statistics/statistical-frameworks-and-exploratory-data-analysis/the-central-limit-theorem.md)
-* [Untitled](statistics/untitled.md)
+* [Statistical Frameworks and Exploratory Data Analysis](statistics/statistical-frameworks-and-exploratory-data-analysis.md)
 
-## FAQ
+## Interview Questions
 
-* [Basic Statistics](faq/basic-statistics.md)
+* [Statistics](interview-questions/basic-statistics/README.md)
+  * [The Central Limit Theorem](interview-questions/basic-statistics/the-central-limit-theorem.md)
 
