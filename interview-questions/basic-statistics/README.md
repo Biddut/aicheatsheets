@@ -6,6 +6,7 @@ That's a tough question but thankfully, our team is on it. Please bear with us w
 
 * [ ] [https://statisticalhorizons.com/multicollinearity](https://statisticalhorizons.com/multicollinearity)
 * [ ] [https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/](https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/)
+* [ ] [https://www.youtube.com/watch?v=NAPhUDjgG\_s](https://www.youtube.com/watch?v=NAPhUDjgG_s)
 
 
 
