@@ -2,12 +2,15 @@
 
 * [Initial page](README.md)
 
-## Statistics
+## Notes
 
-* [Statistical Frameworks and Exploratory Data Analysis](statistics/statistical-frameworks-and-exploratory-data-analysis.md)
+* [Statistics](notes/statistics/README.md)
+  * [The Central Limit Theorem](notes/statistics/the-central-limit-theorem.md)
 
-## Interview Questions
+## Learning by Questions <a id="interview-questions"></a>
 
-* [Statistics](interview-questions/basic-statistics/README.md)
-  * [The Central Limit Theorem](interview-questions/basic-statistics/the-central-limit-theorem.md)
+---
+
+* [Basic Statistics](basic-statistics.md)
+* [Exploratory Data Analysis](eda.md)
 
