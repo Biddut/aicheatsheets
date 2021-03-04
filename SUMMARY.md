@@ -1,16 +1,9 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Home](README.md)
 
-## Notes
+## Deep Learning
 
-* [Statistics](notes/statistics/README.md)
-  * [The Central Limit Theorem](notes/statistics/the-central-limit-theorem.md)
-
-## Learning by Questions <a id="interview-questions"></a>
-
----
-
-* [Basic Statistics](basic-statistics.md)
-* [Exploratory Data Analysis](eda.md)
+* [Neural Network](deep-learning/deep-learning/README.md)
+  * [Neural Implementation from scratch](deep-learning/deep-learning/neural-implementation-from-scratch.md)
 
